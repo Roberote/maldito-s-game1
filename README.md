@@ -1,4 +1,4 @@
-# 🎮 Maldito's Gaming (Uma empresa nem um pouco séria e DESCONTINUADA)  
+# 🎮 Maldito's Gaming
 
 > Um pequeno projeto de game feito entre amigos, que durou só uma semana mas deixou boas risadas 😅  
 > A small hobby project between friends, discontinued after a week – but full of good vibes!
