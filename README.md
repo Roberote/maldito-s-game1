@@ -9,7 +9,7 @@
 
 🇧🇷 **Português:**  
 Esse foi o início de um jogo criado no **GameMaker Studio 2**, como hobby e brincadeira entre amigos.  
-Na programação e organização dos arquivos fiquei eu (Roberto), enquanto a arte foi feita pelos meus amigos:  
+Na programação e organização dos arquivos fiquei eu (Robert), enquanto a arte foi feita pelos meus amigos:  
 - 🎨 **Arthur Delapieri** – cursando Arquitetura e Urbanismo (Unaerp - Ribeirão Preto)  
 - 🎨 **Arturo Dobles** – cursando Design (UFU – Uberlândia)  
 
@@ -17,7 +17,7 @@ O jogo nunca passou da base: codifiquei movimentação, uma interação com uma 
 
 🇬🇧 **English:**  
 This was the start of a small game built in **GameMaker Studio 2**, just for fun between friends.  
-I (Roberto) was in charge of programming and file management, while the art was done by my friends:  
+I (Robert) was in charge of programming and file management, while the art was done by my friends:  
 - 🎨 **Arthur Delapieri** – Architecture & Urbanism student (Unaerp - Ribeirão Preto)  
 - 🎨 **Arturo Dobles** – Design student (UFU – Uberlândia)  
 
