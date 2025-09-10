@@ -45,14 +45,6 @@ The game never went beyond the basics: I coded player movement, a card interacti
 
 ---
 
-## 🖼️ Screenshots (Prototype)  
-
-⚠️ *As artes foram bem simples, estilo protótipo mesmo!*  
-⚠️ *Art was very simple, just prototype-style!*  
-
-*(adicione aqui prints se quiser futuramente / feel free to add prototype screenshots here)*  
-
----
 
 ## 🎯 Objetivo do Repositório | Repository Purpose  
 
