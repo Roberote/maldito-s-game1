@@ -56,7 +56,7 @@ The game never went beyond the basics: I coded player movement, a card interacti
 
 ## 🤝 Créditos | Credits  
 
-- 👨‍💻 **Programação & organização | Programming & file management:** Roberto  
+- 👨‍💻 **Programação & organização | Programming & file management:** Robert Castilho Menegussi  
 - 🎨 **Arte | Art:** Arthur Delapieri & Arturo Dobles  
 
 ---
